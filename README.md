@@ -12,7 +12,7 @@
 
 ## Hard skills
 
-**Начальные навыки использования таких инструментов как:**
+**Базовые навыки использования таких инструментов как:**
 * <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJxNG93c2g0ZXdmbWxhd3lnOWN5M2hyN3Y5Zjgza2F4MWFxMm1qaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYm7AoJQAU2WEaYbGm/giphy.gif" width="100" height="50" alt="DevTools"></a> **[](https://developer.chrome.com/docs/devtools/)**
 * <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUzNGt0dW81Y256a25taXdlZGh2NnBzeDgzeWV3YnZsZW9qbnlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDVYTimxoFjb3jNrCa/giphy.gif" width="75" height="75" alt="Postman"></a> [](https://www.postman.com/)
 * <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="75" height="75" alt="Git"></a> [](https://git-scm.com/)
@@ -57,8 +57,8 @@
 * *Проанализировал имеющиеся требования;*
 * *Произвел анализ продукта*;
 * *Составил тест-кейсы и произвел проверку согласно составленым тест-кейсам*;
-* *Составил отчеты о проверенных тест-кейса;
-* *Cоставил баг-репорты;
+* *Составил отчеты о проверенных тест-кейса;*
+* *Cоставил баг-репорты;*
 * *Произвел регрессионное тестирование;*
 
 ### Использовал во время работы:
@@ -69,11 +69,11 @@
 ## [*Проект тестирование в продакшене web-приложения CodeBattle*](https://github.com/ViktorSmiryagin/qa-engineer-project-85)
 ### Во время выполнения проекта:
 * *Проанализировал и дополнил имеющиеся требования;*
-* *Произвел анализ сервиса*;
-* *Составил тест-кейсы и произвел проверку согласно составленым тест-кейсам*;
+* *Произвел анализ сервиса;*
+* *Составил тест-кейсы и произвел проверку согласно составленым тест-кейсам;*
 * *Составил отчеты о проверенных тест-кейса;*
 * *Cоставил баг-репорты;*
-* *Произвел регрессионное тестирование;***
+* *Произвел регрессионное тестирование;*
 
 ### Использовал во время работы:
 * *Devtools*
