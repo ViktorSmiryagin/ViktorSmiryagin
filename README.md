@@ -26,6 +26,7 @@
 * <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="75" height="65" alt="JavaScript"></a> [](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Понимание таких основ как:**
+* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGwwbDZyeHM5aXJwNDV2YnRrNGhsNDFkd2J2ZmwxYm53bHh3Yzl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTL1cKpsqV7r1jXJGg/giphy.gif" width="150" height="100" alt="Principles of software testing"></a> [](https://www.guru99.com/software-testing-techniques.html)
 * <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZid2RsbWhyMDkyZm9lZXptYWRwbTVjcnpmcnJubGxkamZ4bHBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8xihxy3xryJFVNN8h/giphy.gif" width="150" height="100" alt="Техники тест-дизайна"></a> [](https://www.guru99.com/software-testing-techniques.html)
 * <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzUzNWNiemw3a2c5ZzE0aTZmbmExdHZtZmdqbWJkeXdqZGs3czJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXGV6LuDyCOgmecegJ/giphy.gif" width="150" height="150" alt="Уровни тестирования"></a> [](https://www.guru99.com/software-testing-pyramid.html)
 * <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBtdG5mcWV1b3NxZHJ5YW52bWF0dDkwNTZ3bmwzc2IzengxZ3dwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aII1MqL55skdd1sdul/giphy.gif" width="73" height="50" alt="HTTP"></a> [](https://developer.mozilla.org/en-US/docs/Web/HTTP)
