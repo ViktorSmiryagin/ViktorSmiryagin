@@ -51,7 +51,7 @@
 
 ## Проекты
 
-### [Тестирование интернет-магазина](https://github.com/ViktorSmiryagin/qa-engineer-project-84)
+## [Тестирование интернет-магазина](https://github.com/ViktorSmiryagin/qa-engineer-project-84)
 
 ### Во время выполнения проекта:
 * Проанализировал имеющиеся требования;
