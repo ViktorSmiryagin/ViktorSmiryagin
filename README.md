@@ -18,7 +18,7 @@
 
 **Начальные знания:**
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2eGFmYWpwejZlaW1lcTF4djh2Nmh4YWVwd3l4MWIzeTJiOHZ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mojRBWmxP3NFSpqD3/giphy.gif" width="200" height="150" alt="YAML"></a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RqcHMxZ2FsdXhicTR6a3p0dGlvMmtvdzd1YTBqdzQwcjR4ZjcxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jgyZKMOe3Eg3UcSr7T/giphy.gif" width="200" height="150" alt="Markdown"></a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5saGduODN2djVkc3FoNWswdGw1MXU2bHBsaTI2cmJ2cm5zdXN0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3Owc2NuVw7qCK4YWo/giphy.gif" width="200" height="150" alt="SQL"></a><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" height="150" alt="JavaScript"></a>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2eGFmYWpwejZlaW1lcTF4djh2Nmh4YWVwd3l4MWIzeTJiOHZ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mojRBWmxP3NFSpqD3/giphy.gif" width="200" height="150" alt="YAML"></a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RqcHMxZ2FsdXhicTR6a3p0dGlvMmtvdzd1YTBqdzQwcjR4ZjcxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jgyZKMOe3Eg3UcSr7T/giphy.gif" width="200" height="150" alt="Markdown"></a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5saGduODN2djVkc3FoNWswdGw1MXU2bHBsaTI2cmJ2cm5zdXN0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3Owc2NuVw7qCK4YWo/giphy.gif" width="200" height="150" alt="SQL"></a><img 
 
 **Понимание таких основ как:**
 
