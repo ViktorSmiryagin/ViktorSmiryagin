@@ -5,10 +5,10 @@
 I am a beginner "Manual Testing Engineer". I try to master this profession from scratch. In my spare time I am interested in taking online courses on platforms like Stepik and Udemy. My professional knowledge is constantly expanded and developed by these interests.
 
 **Was born and lived:** 
-- РФ, РЕСПУБЛИКА КОМИ, г. [Печора](https://eho.tb.ru/pechora-komi-republic);
+- Russian Federation, Komi Republic, [Pechora](https://eho.tb.ru/pechora-komi-republic);
 
 **I living now:**
-- Румыния, г. Решица;
+- Romania, Reșița;
 
 ## Hard skills
 
