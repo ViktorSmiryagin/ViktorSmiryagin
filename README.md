@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a beginner "Manual Testing Engineer". I try to master this profession from scratch. In my spare time I am interested in taking online courses on platforms like Stepik and Udemy. My professional knowledge is constantly expanded and developed by these interests.
+I am a beginner "Manual Testing Engineer". I try to master this profession from scratch. In my spare time I am interested in taking online courses on platforms like Stepik and Udemy. These interests help me to constantly develop and expand my professional knowledge.
 
 **Was born and lived:** 
 - Russian Federation, Komi Republic, [Pechora](https://eho.tb.ru/pechora-komi-republic);
