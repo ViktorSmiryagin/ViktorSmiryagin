@@ -15,7 +15,7 @@ I am a beginner "Manual Testing Engineer". I try to master this profession from 
 **Basic skills in using tools such as:**
  
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJxNG93c2g0ZXdmbWxhd3lnOWN5M2hyN3Y5Zjgza2F4MWFxMm1qaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYm7AoJQAU2WEaYbGm/giphy.gif" width="200" height="150" alt="DevTools"></a> [](https://developer.chrome.com/docs/devtools/) <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUzNGt0dW81Y256a25taXdlZGh2NnBzeDgzeWV3YnZsZW9qbnlvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDVYTimxoFjb3jNrCa/giphy.gif" width="200" height="200" alt="Postman"></a> [](https://www.postman.com/)  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200" height="150" alt="Git"></a> [](https://git-scm.com/)<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVsN2Rmazh1c3k2ZjFoMml6aTBldmtweWZmbGgyN2NieDZyOHptbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzfrXN8CKlFFc8ZqMl/giphy.gif" width="200" height="150" alt="bash"></a> [](https://www.gnu.org/software/bash/)
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVsN2Rmazh1c3k2ZjFoMml6aTBldmtweWZmbGgyN2NieDZyOHptbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzfrXN8CKlFFc8ZqMl/giphy.gif" width="200" height="150" alt="JMeter"></a> [](https://jmeter.apache.org/)
+
 
 **basic knowledge:**
 
