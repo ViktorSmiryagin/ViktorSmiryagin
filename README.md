@@ -47,12 +47,13 @@ I am a beginner "Manual Testing Engineer". I try to master this profession from 
 * mobile games
 * Going anywhere
 
-### Образование 
+### Education
 [Online Programming School](https://ru.hexlet.io/u/victorsm)
+[Courses on Stepik](https://stepik.org/users/775144682/profile)
 
 
 
-## Проекты
+## Projects
 
 ## [E-commerce Website Testing](https://github.com/ViktorSmiryagin/qa-engineer-project-84)
 
