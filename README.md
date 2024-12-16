@@ -60,6 +60,9 @@ I am a beginner "Manual Testing Engineer". I try to master this profession from 
 ## [Project: Testing the CodeBattle Web Application in Production](https://github.com/ViktorSmiryagin/qa-engineer-project-85)
 
 ## [Participation in open-source project RunIT](https://github.com/ViktorSmiryagin/Test_Runit)
+## [PetProject(StoreSystem)](https://github.com/ViktorSmiryagin/StoreSystem/tree/main)
+## [Team Project Web Application Testing](https://github.com/ViktorSmiryagin/Incubator_test/tree/main)
+
 
 # Contact
 <a href="https://t.me/EA7Owner"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2cTNvZmtocXZlZ3Zlbmx2MGlkM2tnM2N5MzM5MjBsMTA4bGVmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B37K3NPl4agREywDq8/giphy.gif" width="200" height="200" alt="DevTools"></a> [](https://t.me/EA7Owner)
