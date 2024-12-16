@@ -48,8 +48,9 @@ I am a beginner "Manual Testing Engineer". I try to master this profession from 
 * Going anywhere
 
 ### Education
-[Online Programming School](https://ru.hexlet.io/u/victorsm)
-[Courses on Stepik](https://stepik.org/users/775144682/profile)
+## [Online Programming School](https://ru.hexlet.io/u/victorsm)
+
+## [Courses on Stepik](https://stepik.org/users/775144682/profile)
 
 
 
