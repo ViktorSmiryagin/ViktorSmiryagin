@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a beginner "Manual Testing Engineer". I try to master this profession from scratch. In my spare time I am interested in taking online courses on platforms like Stepik and Udemy. These interests help me to constantly develop and expand my professional knowledge.
+I am a QA engineer with experience in manual testing of web applications and APIs. I have worked on team projects, tested both frontend and backend, written test cases, identified bugs, and managed tasks in Jira. I have hands-on experience with Postman, DevTools, SQL, Docker, and the ELK stack. Currently, I am studying test automation with Java. I am eager to grow professionally and develop further in the QA field
 
 **Was born and lived:** 
 - Russian Federation, Komi Republic, [Pechora](https://eho.tb.ru/pechora-komi-republic);
