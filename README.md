@@ -1,4 +1,4 @@
-# Hello! My name Smiryagin Viktor begin our acquaintance!
+# Hello! My name is Smiryagin Viktor begin our acquaintance!
 
 ## About me
 
@@ -7,7 +7,7 @@ I am a QA engineer with experience in manual testing of web applications and API
 **Was born and lived:** 
 - Russian Federation, Komi Republic, [Pechora](https://eho.tb.ru/pechora-komi-republic);
 
-**I living now:**
+**I currently live in:**
 - Romania, Reșița;
 
 ## Hard skills
@@ -31,7 +31,7 @@ I am a QA engineer with experience in manual testing of web applications and API
 
 **foreign languages:**
 * English  -  A2
-* Romanian - level can buy juice in store
+* Romanian - level can buy juice in store(Beginner)
 
 ## Soft skills
 * Adaptability
@@ -40,7 +40,7 @@ I am a QA engineer with experience in manual testing of web applications and API
 * Tactfulness
 * Learning
 
-**Hobbies and hobbies:**
+**Hobbies:**
 * Wife
 * Podcasts or audiobooks
 * Hookah sphere
