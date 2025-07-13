@@ -25,7 +25,7 @@ I am a QA engineer with experience in manual testing of web applications and API
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="80" alt="Jira" />
 
 <!-- Git -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl1c2xrbHRzaHV2eXFlM2U4N2t6aTZwMXZvbjJ2b2JqdHQwbHlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XB8qhQGc3vhvV3qLQw/giphy.gif" width="80" alt="Git" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80" alt="Git" />
 
 <!-- Qase -->
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU5bXplb3UzNmYyNWRubHJpdDBobzg1OW9rd3Jjam9tZ3NvM2c5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eFlUjYnrEcfFT8Dqcz/giphy.gif" width="80" alt="Qase" />
