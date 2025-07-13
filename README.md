@@ -19,13 +19,38 @@ I am a QA engineer with experience in manual testing of web applications and API
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzk0dmMxdnF5YWhmOTB2Z24ycDRvNHV0N2oyMXA1cjAzdnAwb3F4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LN7RYUPrODY7XSvYBE/giphy.gif" width="200" height="150" alt="JMeter"></a> [](https://jmeter.apache.org/)
 
 
-**basic knowledge:**
+## 🛠️ Навыки
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2eGFmYWpwejZlaW1lcTF4djh2Nmh4YWVwd3l4MWIzeTJiOHZ0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1mojRBWmxP3NFSpqD3/giphy.gif" width="200" height="150" alt="YAML"></a><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3RqcHMxZ2FsdXhicTR6a3p0dGlvMmtvdzd1YTBqdzQwcjR4ZjcxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jgyZKMOe3Eg3UcSr7T/giphy.gif" width="200" height="150" alt="Markdown"></a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5saGduODN2djVkc3FoNWswdGw1MXU2bHBsaTI2cmJ2cm5zdXN0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3Owc2NuVw7qCK4YWo/giphy.gif" width="200" height="150" alt="SQL">
+<div align="center">
 
-**Understanding such basic principles as:**
+<!-- Postman -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBiamJteGhzYTNyNHQ4dm80YXFibGlyNXluNGJ0NDh4eWVqMWYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDVYTimxoFjb3jNrCa/giphy.gif" width="80" alt="Postman" />
 
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGwwbDZyeHM5aXJwNDV2YnRrNGhsNDFkd2J2ZmwxYm53bHh3Yzl0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTL1cKpsqV7r1jXJGg/giphy.gif" width="200" height="150" alt="Principles of software testing"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZid2RsbWhyMDkyZm9lZXptYWRwbTVjcnpmcnJubGxkamZ4bHBhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8xihxy3xryJFVNN8h/giphy.gif" width="200" height="150" alt="Техники тест-дизайна"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzUzNWNiemw3a2c5ZzE0aTZmbmExdHZtZmdqbWJkeXdqZGs3czJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wXGV6LuDyCOgmecegJ/giphy.gif" width="200" height="200" alt="Уровни тестирования"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBtdG5mcWV1b3NxZHJ5YW52bWF0dDkwNTZ3bmwzc2IzengxZ3dwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aII1MqL55skdd1sdul/giphy.gif" width="200" height="150" alt="HTTP"></a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NzZHlqdzFhajB1Yjhsb3BtamN1Y3llZmlrbHlwa2hjbWEwcDRtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aN3fE65ZEvqdYZjbeV/giphy.gif" width="200" height="150" alt="HTTP"></a>
+<!-- Swagger -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="80" alt="Swagger" />
+
+<!-- Jira -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="80" alt="Jira" />
+
+<!-- Git -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl1c2xrbHRzaHV2eXFlM2U4N2t6aTZwMXZvbjJ2b2JqdHQwbHlpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XB8qhQGc3vhvV3qLQw/giphy.gif" width="80" alt="Git" />
+
+<!-- Qase -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU5bXplb3UzNmYyNWRubHJpdDBobzg1OW9rd3Jjam9tZ3NvM2c5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eFlUjYnrEcfFT8Dqcz/giphy.gif" width="80" alt="Qase" />
+
+<!-- DevTools -->
+<img src="https://media.giphy.com/media/pYm7AoJQAU2WEaYbGm/giphy.gif" width="80" alt="DevTools" />
+
+<!-- SQL -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFocDNpbXg1eHIwdDBobzhlMGdibnc4cG80dm95aTU2d2xnbDJoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3Owc2NuVw7qCK4YWo/giphy.gif" width="80" alt="SQL" />
+
+<!-- GraphQL -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM5bDd1YWIxdmdwYWo0ZHRrcXNjMjI3cTYzNzNzOW52bHAxdWpxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BALI8wSjUAQof8nOv2/giphy.gif" width="80" alt="GraphQL" />
+
+<!-- WebSocket -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR1b2p5bDV0YTJobnh2MHI3ajdhdzBubWR3bDZzdDk2YWZqNWcyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2MpYL7zvSN1KgOEK8O/giphy.gif" width="80" alt="WebSocket" />
+
+</div>
 
 
 
