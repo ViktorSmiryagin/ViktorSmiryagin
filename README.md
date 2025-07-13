@@ -40,7 +40,7 @@ I am a QA engineer with experience in manual testing of web applications and API
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM5bDd1YWIxdmdwYWo0ZHRrcXNjMjI3cTYzNzNzOW52bHAxdWpxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BALI8wSjUAQof8nOv2/giphy.gif" width="80" alt="GraphQL" />
 
 <!-- WebSocket -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR1b2p5bDV0YTJobnh2MHI3ajdhdzBubWR3bDZzdDk2YWZqNWcyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2MpYL7zvSN1KgOEK8O/giphy.gif" width="80" alt="WebSocket" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVlNDN4eTlrd3NjbHBxaGg5ZXduYjQyOTllMGIzc3MybGx1bWQ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DZTjGxzLWHps8D2hvA/giphy.gif" width="80" alt="WebSocket" />
 
 </div>
 
