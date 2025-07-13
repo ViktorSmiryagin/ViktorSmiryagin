@@ -15,7 +15,6 @@ I am a QA engineer with experience in manual testing of web applications and API
 ## 🛠️ Навыки
 
 <div align="center">
-
 <!-- Postman -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBiamJteGhzYTNyNHQ4dm80YXFibGlyNXluNGJ0NDh4eWVqMWYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDVYTimxoFjb3jNrCa/giphy.gif" width="80" alt="Postman" />
 
