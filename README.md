@@ -12,7 +12,7 @@ I am a QA engineer with experience in manual testing of web applications and API
 
 
 
-## 🛠️ Навыки
+##  Навыки
 
 <div align="center">
 <!-- Postman -->
