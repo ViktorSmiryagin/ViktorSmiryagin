@@ -79,7 +79,7 @@ I am a QA engineer with experience in manual testing of web applications and API
 
 ## [Participation in open-source project RunIT](https://github.com/ViktorSmiryagin/Test_Runit)
 ## [PetProject(StoreSystem)](https://github.com/ViktorSmiryagin/StoreSystem/tree/main)
-## [Team Project Web Application Testing](https://github.com/ViktorSmiryagin/Incubator_test/tree/main)
+
 
 
 # Contact
