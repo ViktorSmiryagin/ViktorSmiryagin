@@ -1,86 +1,89 @@
-# Hello! My name is Smiryagin Viktor begin our acquaintance!
+# Hello! My name is Smiryagin Viktor — nice to meet you!
 
 ## About me
+QA Engineer with experience in **manual testing** of web apps and **APIs**. Worked in team projects: tested frontend & backend, wrote test cases, logged bugs, and managed tasks in **Jira**. Hands‑on with **Postman**, **DevTools**, **SQL**, **Docker**, and logs via **Kibana/Elasticsearch**.  
+Learning test automation with **Java**. Open to growth and new challenges in QA.
 
-I am a QA engineer with experience in manual testing of web applications and APIs. I have worked on team projects, tested both frontend and backend, written test cases, identified bugs, and managed tasks in Jira. I have hands-on experience with Postman, DevTools, SQL, Docker, and the ELK stack. Currently, I am studying test automation with Java. I am eager to grow professionally and develop further in the QA field
+**Born & lived:** Pechora, Komi Republic, Russia  
+**Currently in:** Reșița, Romania
 
-**Was born and lived:** 
-- Russian Federation, Komi Republic, [Pechora](https://eho.tb.ru/pechora-komi-republic);
+---
 
-**I currently live in:**
-- Romania, Reșița;
+## Skills (honest self‑assessment)
 
+### Strong
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="28" alt="Jira"/> Jira ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" alt="Git"/> Git ·
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CharlesProxy-Dark.svg" width="28" alt="Charles Proxy"/> Charles Proxy ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="28" alt="DevTools"/> DevTools ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" alt="SQL"/> SQL
+</p>
 
+- Jira: templates, priorities/severity, boards & filters  
+- Git: clone/commit/branch/merge  
+- Charles Proxy: SSL proxy, Breakpoints, Map Local  
+- DevTools: Network/Console, request/response analysis  
+- SQL: SELECT/JOIN, filtering, sorting
 
-##  Навыки
+### Proficient
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="28" alt="Swagger"/> Swagger ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" alt="Docker"/> Docker ·
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="28" alt="Prisma Studio"/> Prisma Studio ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" alt="Postman"/> Postman
+</p>
 
-<div align="center">
-<!-- Postman -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBiamJteGhzYTNyNHQ4dm80YXFibGlyNXluNGJ0NDh4eWVqMWYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SDVYTimxoFjb3jNrCa/giphy.gif" width="80" alt="Postman" />
+- Swagger: discover/test endpoints, check docs  
+- Docker: `run`, ports/volumes, `docker-compose` for local env  
+- Prisma Studio: view/edit data, filters  
+- Postman: requests, environments, variables *(tests – basic)*
 
-<!-- Swagger -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="80" alt="Swagger" />
+### Basic / Learning
+<p>
+  <img src="https://jmeter.apache.org/images/jmeter_square.png" width="28" alt="JMeter"/> JMeter ·
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kibana.svg" width="28" alt="Kibana"/> Kibana/Elasticsearch ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="28" alt="GraphQL"/> GraphQL ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="28" alt="WebSocket"/> WebSocket
+</p>
 
-<!-- Jira -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="80" alt="Jira" />
+- JMeter: Thread Group, HTTP Sampler, Assertions (no HTML reports yet)  
+- Kibana/Elasticsearch: search/filter logs, Saved Search  
+- GraphQL: can run ready queries, learning to write from scratch  
+- WebSocket: tested by ready scenarios, learning subscribe flows
 
-<!-- Git -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="80" alt="Git" />
+---
 
-<!-- Qase -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU5bXplb3UzNmYyNWRubHJpdDBobzg1OW9rd3Jjam9tZ3NvM2c5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eFlUjYnrEcfFT8Dqcz/giphy.gif" width="80" alt="Qase" />
-
-<!-- DevTools -->
-<img src="https://media.giphy.com/media/pYm7AoJQAU2WEaYbGm/giphy.gif" width="80" alt="DevTools" />
-
-<!-- SQL -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFocDNpbXg1eHIwdDBobzhlMGdibnc4cG80dm95aTU2d2xnbDJoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3Owc2NuVw7qCK4YWo/giphy.gif" width="80" alt="SQL" />
-
-<!-- GraphQL -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM5bDd1YWIxdmdwYWo0ZHRrcXNjMjI3cTYzNzNzOW52bHAxdWpxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BALI8wSjUAQof8nOv2/giphy.gif" width="80" alt="GraphQL" />
-
-<!-- WebSocket -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVlNDN4eTlrd3NjbHBxaGg5ZXduYjQyOTllMGIzc3MybGx1bWQ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DZTjGxzLWHps8D2hvA/giphy.gif" width="80" alt="WebSocket" />
-
-</div>
-
-
-
-**foreign languages:**
-* English  -  A2
-* Romanian - level can buy juice in store(Beginner)
+## Languages
+- English — A2 (learning)  
+- Romanian — Beginner (everyday basics)  
+- Russian — Native
 
 ## Soft skills
-* Adaptability
-* Responsibility
-* Positivity
-* Tactfulness
-* Learning
+Adaptability · Responsibility · Positivity · Tactfulness · Fast learning
 
-**Hobbies:**
-* Wife
-* Podcasts or audiobooks
-* Hookah sphere
-* mobile games
-* Going anywhere
+---
 
-### Education
-## [Online Programming School](https://ru.hexlet.io/u/victorsm)
+## Education
+- Hexlet — Software Testing (2024)  
+- Stepik — JMeter, SQL+Python (2024)  
+- Pechora River College — Ship Navigation Technician (2017)
 
-## [Courses on Stepik](https://stepik.org/users/775144682/profile)
-
-
+---
 
 ## Projects
+- **E‑commerce Website Testing** — functional & integration testing  
+  https://github.com/ViktorSmiryagin/qa-engineer-project-84  
+- **CodeBattle (production testing)** — UI & API defects, reports  
+  https://github.com/ViktorSmiryagin/qa-engineer-project-85  
+- **RunIT (open‑source participation)**  
+  https://github.com/ViktorSmiryagin/Test_Runit  
+- **StoreSystem (pet project)** — REST, WebSocket, Postman, SQL, ELK  
+  https://github.com/ViktorSmiryagin/StoreSystem/tree/main
 
-## [E-commerce Website Testing](https://github.com/ViktorSmiryagin/qa-engineer-project-84)
+---
 
-## [Project: Testing the CodeBattle Web Application in Production](https://github.com/ViktorSmiryagin/qa-engineer-project-85)
-
-## [Participation in open-source project RunIT](https://github.com/ViktorSmiryagin/Test_Runit)
-## [PetProject(StoreSystem)](https://github.com/ViktorSmiryagin/StoreSystem/tree/main)
-
-
-
-# Contact
-<a href="https://t.me/EA7Owner"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY2cTNvZmtocXZlZ3Zlbmx2MGlkM2tnM2N5MzM5MjBsMTA4bGVmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B37K3NPl4agREywDq8/giphy.gif" width="200" height="200" alt="DevTools"></a> [](https://t.me/EA7Owner)
+## Contact
+<a href="https://t.me/EA7Owner">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
