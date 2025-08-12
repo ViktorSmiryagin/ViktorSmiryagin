@@ -20,11 +20,6 @@ Learning test automation with **Java**. Open to growth and new challenges in QA.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" alt="SQL"/> SQL
 </p>
 
-- Jira: templates, priorities/severity, boards & filters  
-- Git: clone/commit/branch/merge  
-- Charles Proxy: SSL proxy, Breakpoints, Map Local  
-- DevTools: Network/Console, request/response analysis  
-- SQL: SELECT/JOIN, filtering, sorting
 
 ### Proficient
 <p>
@@ -34,10 +29,6 @@ Learning test automation with **Java**. Open to growth and new challenges in QA.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" alt="Postman"/> Postman
 </p>
 
-- Swagger: discover/test endpoints, check docs  
-- Docker: `run`, ports/volumes, `docker-compose` for local env  
-- Prisma Studio: view/edit data, filters  
-- Postman: requests, environments, variables *(tests – basic)*
 
 ### Basic / Learning
 <p>
@@ -47,10 +38,6 @@ Learning test automation with **Java**. Open to growth and new challenges in QA.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="28" alt="WebSocket"/> WebSocket
 </p>
 
-- JMeter: Thread Group, HTTP Sampler, Assertions (no HTML reports yet)  
-- Kibana/Elasticsearch: search/filter logs, Saved Search  
-- GraphQL: can run ready queries, learning to write from scratch  
-- WebSocket: tested by ready scenarios, learning subscribe flows
 
 ---
 
