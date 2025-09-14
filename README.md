@@ -23,10 +23,10 @@ Learning test automation with **Java**. Open to growth and new challenges in QA.
 
 ### Proficient
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" alt="SQL"/> SQL
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CharlesProxy-Dark.svg" width="28" alt="Charles Proxy"/> Charles Proxy ·
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="28" alt="Swagger"/> Swagger ·
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" alt="Postman"/> Postman
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" alt="SQL" /> SQL ·
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CharlesProxy-Dark.svg" width="28" alt="Charles Proxy" /> Charles Proxy ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="28" alt="Swagger" /> Swagger ·
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" alt="Postman" /> Postman
 </p>
 
 
