@@ -15,14 +15,16 @@ Learning test automation with **Java**. Open to growth and new challenges in QA.
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="28" alt="Jira"/> Jira ·
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" alt="Git"/> Git ·
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CharlesProxy-Dark.svg" width="28" alt="Charles Proxy"/> Charles Proxy ·
+  ·
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="28" alt="DevTools"/> DevTools ·
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" alt="SQL"/> SQL
+
 </p>
 
 
 ### Proficient
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28" alt="SQL"/> SQL
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CharlesProxy-Dark.svg" width="28" alt="Charles Proxy"/> Charles Proxy ·
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="28" alt="Swagger"/> Swagger ·
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28" alt="Docker"/> Docker ·
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" width="28" alt="Prisma Studio"/> Prisma Studio ·
